@@ -1,4 +1,7 @@
 theme: minima
 
 title: config title
-description: PhD student at UIUC
+author: config author
+description: config description, a long long description
+
+email: email@example.com
