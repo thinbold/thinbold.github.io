@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
+
+title: config title
+description: PhD student at UIUC
