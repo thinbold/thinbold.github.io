@@ -5,3 +5,9 @@ author: config author
 description: config description, a long long description
 
 email: email@example.com
+
+minima:
+  social_links:
+    twitter: jekyllrb
+    github: jekyll
+    facebook: jekyll
