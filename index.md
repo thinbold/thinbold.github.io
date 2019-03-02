@@ -1,5 +1,6 @@
 ---
-page.title: index title test
+title: index title test
+page.title: index page title
 ---
 
 # index md h1
